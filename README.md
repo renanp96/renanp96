@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @renanp96
-- 👀 I’m interested in Java, NodeJS and Amazon Web Services
-- 🌱 I’m currently learning Spring Applications and APIs
-- 💞️ I’m looking to collaborate on Java and NodeJS projects
-- 📫 How to reach me renanpa1996@gmail.com
-
-<!---
-renanp96/renanp96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @renanp96
+👀 I’m passionate about Java, Node.js, and Amazon Web Services (AWS)
+🌱 I’m currently expanding my skills in Spring Boot, REST APIs, and Cloud solutions
+💞️ I’m looking to collaborate on Back-End development projects using Java or Node.js
+📚 Experienced in Java 8 & 11, SQL Server, MySQL, APIs, Scrum, Squads, and Docker
+📫 How to reach me: renanpa1996@gmail.com, https://www.linkedin.com/in/renan-paganini-b53238158/
